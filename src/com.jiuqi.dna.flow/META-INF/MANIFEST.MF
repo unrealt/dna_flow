@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Flow
+Bundle-SymbolicName: com.jiuqi.dna.flow
+Bundle-Version: 1.0.0
+Bundle-Vendor: JIUQI
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: com.jiuqi.dna.core;bundle-version="3.0.1",
+ org.eclipse.core.runtime;bundle-version="3.3.100"
